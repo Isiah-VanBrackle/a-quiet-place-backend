@@ -1,6 +1,6 @@
 # a-quiet-place-backend
 
-A Quiet Place Backend is an API designed to store the data of users making use of the single page web application. 
+A Quiet Place Backend is an API designed to store the data of users making use of the single page web application.
 
 # Getting Started
 To begin you'll want to clone down both this Backend repository and the Frontend. The instructions below will focus on getting the Backend up and running.  I'd recommend you completely set up the backend first to avoid a "server in use error."
@@ -13,8 +13,8 @@ To begin you'll want to clone down both this Backend repository and the Frontend
 5. With the backend up and running you'll be able to log into the application once you install the front end.
 
 # Built with
-*Ruby-on-Rails*
-*Active-model-Serializers*
+*Ruby-on-Rails*,
+*Active-model-Serializers*, 
 *Google-books-Api*
 
 
